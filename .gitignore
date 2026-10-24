@@ -1,0 +1,17 @@
+# Ambientes e cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Dados (arquivos grandes nao devem ir pro Git)
+data/*
+!data/.gitkeep
+
+# Notebook de trabalho (o publicado é P08_sql_escolas_censo_ideb.ipynb)
+notebooks/08_sql_escolas_censo_ideb.ipynb
+
+# Sistema
+.DS_Store
+Thumbs.db

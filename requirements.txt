@@ -1,0 +1,6 @@
+# Ambiente do P08 (versões instaladas na máquina, Python 3.14).
+pandas>=3.0
+numpy>=2.5
+matplotlib>=3.11
+openpyxl>=3.1
+ipykernel>=7.3
